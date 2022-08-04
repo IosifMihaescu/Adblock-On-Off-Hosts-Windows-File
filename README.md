@@ -9,3 +9,5 @@ After the installation, just type in the Windows Search Bar "Adblock OFF" and pr
 (Adblock OFF should turn to Adblock ON)
 
 Enjoy!
+
+These files can be seen as viruses by an antivirus, so don't worry. The reason is that it modifies the "hosts" file which is a system file.
