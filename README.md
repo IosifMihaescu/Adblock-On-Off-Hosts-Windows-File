@@ -5,6 +5,7 @@ TESTED ONLY IN WINDOWS 10.
 
 Install running "SETUP (Run as Administrator).cmd"
 
-After the installation, just type in the Windows Search Bar "Adblock On-Off" and press Enter.
+After the installation, just type in the Windows Search Bar "Adblock OFF" and press Enter.
+(Adblock OFF should turn to Adblock ON)
 
 Enjoy!
