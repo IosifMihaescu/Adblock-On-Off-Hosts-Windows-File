@@ -2,6 +2,7 @@
 Basically this is a tool to automatically Enable/Disable System Adblock (Add/Remove blocked AD URLs in the Windows Hosts file)
 
 Compatibility
+-----
 TESTED ONLY IN WINDOWS 10.
 
 Setup
