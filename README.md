@@ -10,9 +10,11 @@ Setup
 
 Usage
 -----
-      After the installation, just type in the Windows Search Bar "Adblock OFF" and press Enter.
-      (Adblock OFF should turn to Adblock ON)
+      After the installation, just type in the Windows Search Bar "Adblock" or "Adblock OFF", if everything is ok you should see the shortcut, run it.
+      (The shortcut's name "Adblock OFF" should turn to "Adblock ON")
 
 Enjoy!
 
+Warning
+-----
 These files can be seen as viruses by an antivirus, so don't worry. The reason is that it modifies the "hosts" file which is a system file.
