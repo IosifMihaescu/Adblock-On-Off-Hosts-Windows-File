@@ -3,14 +3,15 @@ Basically this is a tool to automatically Enable/Disable System Adblock (Add/Rem
 
 TESTED ONLY IN WINDOWS 10.
 
-Usage
+Setup
 -----
-
       Just run "SETUP (Run as Administrator).cmd"
       ONLY as Administrator, otherwise it will not work.
 
-After the installation, just type in the Windows Search Bar "Adblock OFF" and press Enter.
-(Adblock OFF should turn to Adblock ON)
+Usage
+-----
+      After the installation, just type in the Windows Search Bar "Adblock OFF" and press Enter.
+      (Adblock OFF should turn to Adblock ON)
 
 Enjoy!
 
