@@ -10,7 +10,8 @@ Setup
 
 Usage
 -----
-      After the installation, just type in the Windows Search Bar "Adblock" or "Adblock OFF", if everything is ok you should see the shortcut, run it.
+      After the installation, just type in the Windows Search Bar "Adblock" or "Adblock OFF"
+      if everything is ok you should see the shortcut "Adblock OFF", run it.
       (The shortcut's name "Adblock OFF" should turn to "Adblock ON")
 
 Enjoy!
