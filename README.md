@@ -3,7 +3,7 @@ Basically this is a tool to automatically Enable/Disable System Adblock (Add/Rem
 
 Download:
 -----
-https://github.com/Selkensy/Adblock-On-Off-Hosts-Windows-File/releases/download/1.2/Adblock-On-Off-Hosts-Windows-1.2.zip
+[Adblock-On-Off-Hosts-Windows-1.2.zip](https://github.com/Selkensy/Adblock-On-Off-Hosts-Windows-File/releases/download/1.2/Adblock-On-Off-Hosts-Windows-1.2.zip)
 
 Compatibility
 -----
