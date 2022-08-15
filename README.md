@@ -7,7 +7,7 @@ TESTED ONLY IN WINDOWS 10.
 
 Setup
 -----
-Just run "SETUP (Run as Administrator).cmd"
+Extract the zip file and run "SETUP (Run as Administrator).cmd"
 ONLY as Administrator, otherwise it will not work.
 
 Usage
