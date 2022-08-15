@@ -1,6 +1,10 @@
 # Turn On-Off the Adblock using the Hosts Windows File
 Basically this is a tool to automatically Enable/Disable System Adblock (Add/Remove blocked AD URLs in the Windows Hosts file)
 
+Download:
+-----
+https://github.com/Selkensy/Adblock-On-Off-Hosts-Windows-File/releases/download/1.2/Adblock-On-Off-Hosts-Windows-1.2.zip
+
 Compatibility
 -----
 TESTED ONLY IN WINDOWS 10.
